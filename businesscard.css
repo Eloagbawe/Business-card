@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    padding: 20px 0;
+}
+#card{
+    width:400px;
+    height:250px;
+    border: 1px solid;
+    padding:10px;
+}
+.background{
+    background: #eee;
+    padding:30px;
+    margin-bottom: 30px;
+}
